@@ -1,6 +1,7 @@
 
 # Expresso
 
+![Project outlook](https://photos.app.goo.gl/XmvAwmHbVH5xGT349)
 ## Project Overview
 
 In this capstone project from CodeCademy, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
@@ -129,3 +130,11 @@ The Expresso internal tool should allow users to:
   - If a menu with the supplied menu ID doesn't exist, returns a 404 response
   - If a menu item with the supplied menu item ID doesn't exist, returns a 404 response
 
+## Deployment 
+
+Clone this repo , run `npm install`
+should download all dependancies.
+After type `npm start` nodemon will take care of the rest and simply visit local host 4000 to view the project.
+
+You can see preivew of it from the GitHub page  [Can be accessed here](https://danieldo1.github.io/expresso/#/)
+But due to GitHub not working with SQLite3 database it will have to be deployed locally. 
