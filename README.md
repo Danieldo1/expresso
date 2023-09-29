@@ -1,7 +1,7 @@
 
 # Expresso
 
-![Project outlook](https://photos.app.goo.gl/XmvAwmHbVH5xGT349)
+![Project outlook]([https://photos.app.goo.gl/XmvAwmHbVH5xGT349](https://lh3.googleusercontent.com/pw/ADCreHcfsj66T5jnxaVc11ZkmOnCYe2zqSKUlON9u2HdXurWgJX0Ajkty-WURu7hogRwQPKD1m1Q7t3mw7Tp1bbRSAXI7dTaG85lUd-9l9z_bdQMQG6ti00Pezif1ktH5RvutoWAVWtL56pkWkEu6mDZxpwC=w2234-h1776-s-no?authuser=0))
 ## Project Overview
 
 In this capstone project from CodeCademy, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
